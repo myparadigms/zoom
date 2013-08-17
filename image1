@@ -1,0 +1,2 @@
+git config --global user.name "myparadigms"
+# Sets the default name for git to use when you commit
